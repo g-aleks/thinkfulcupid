@@ -142,6 +142,7 @@ footer p {
 }
 
 /* -------  Media Query ------- */
+/*Breakpoint for navbar at 480*/
 @media all and (min-width: 480px) {
   header {
     flex-direction: row;
@@ -152,7 +153,9 @@ footer p {
     font-size: 48px;
     justify-content: flex-start;
   }
-
+}
+/*Breakpoint for desktop at 800 to ensure that tablet view maintains the vertical flow*/
+@media all and (min-width: 800px) {
   .group {
     flex-direction: row;
   }
