@@ -152,4 +152,8 @@ footer p {
     font-size: 48px;
     justify-content: flex-start;
   }
+
+  .group {
+    flex-direction: row;
+  }
 }
