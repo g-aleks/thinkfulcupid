@@ -4,7 +4,7 @@ ThinkfulCupid is an online dating and matchmaking website that allows people to 
 
 Live Demo [Here](https://g-aleks.github.io/thinkfulcupid/)
 
-## Thinkfulbnb views
+## ThinkfulCupid views
 
 ### Mobile view
 
